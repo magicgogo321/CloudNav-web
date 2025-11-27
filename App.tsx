@@ -17,8 +17,8 @@ import ImportModal from './components/ImportModal';
 import SettingsModal from './components/SettingsModal';
 
 // --- 配置项 ---
-// TODO: 请将此处修改为您自己的 GitHub 仓库地址
-const GITHUB_REPO_URL = 'https://github.com/maodeyu180/mao_nav';
+// 项目核心仓库地址
+const GITHUB_REPO_URL = 'https://github.com/sese972010/CloudNav-';
 
 const LOCAL_STORAGE_KEY = 'cloudnav_data_cache';
 const AUTH_KEY = 'cloudnav_auth_token';
