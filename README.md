@@ -118,5 +118,12 @@
 ---
 
 <div align="center">
+
+**如果您觉得项目不错，希望给本项目点一个免费的 Star ⭐️，感谢您的关注！**
+
+**如果有 Bug 或改进的地方，请在 Issue 中提交您的建议。**
+
+<br/>
+
 Made with ❤️ by CloudNav Team
 </div>
